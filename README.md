@@ -1,6 +1,4 @@
 # YuhaoZheng_RC11_Python
 
-# Notes on git
-1.Git clone == copy repo to your computer
-2.Git status == shows you the status of your files.
-3.Git comit ==save change to files in your repository
+This is ZhengYuhao's first submission file
+Just for test
